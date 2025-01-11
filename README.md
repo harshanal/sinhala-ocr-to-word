@@ -1,4 +1,3 @@
-```markdown
 # Sinhala OCR to Word Conversion
 
 This project provides a Python script to convert a **Sinhala-language PDF** into a Microsoft Word document by using [Tesseract OCR](https://github.com/UB-Mannheim/tesseract) and [Poppler](http://blog.alivate.com.au/poppler-windows/) for PDF-to-image conversion.
