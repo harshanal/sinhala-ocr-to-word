@@ -1,5 +1,5 @@
-pillow
+Flask
 pdf2image
 pytesseract
 python-docx
-pandas
+pillow
