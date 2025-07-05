@@ -45,8 +45,8 @@ Converting PDF documents containing Sinhala text to editable formats using onlin
 
 1. **Clone or Download the Repository** (GitLab):
    ```bash
-   git clone https://gitlab.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/harshanal/sinhala-ocr-to-word.git
+   cd sinhala-ocr-to-word
    ```
    
 2. **Create and Activate a Virtual Environment** (recommended):
